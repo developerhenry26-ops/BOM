@@ -1,0 +1,57 @@
+Machine #,PLANT,Machine Type,Machine,Crew Size,SPACE BETWEEN LW MIN (inches),SPACE BETWEEN LW,SPACE BETWEEN CW MIN,SPACE BETWEEN CW,LW DIAMETER MIN,LW DIAMETER MAX,CW DIAMETER MIN,CW DIAMETER MAX,CW MIN LENGTH (inches),CW MAX LENGTH (inches),LW MIN LENGTH (Inches),LW MAX LENGTH (Inches),Max CW Steps,NUMBER OF LONG WIRE MAX,Capacity Measurement Unit,Maximum Speed
+1,GREEN,Mesh Machines,MEP1,4,2,multiples of 2,2,flexible,3.0,13.0,2.9,3.0,44,145,84,420,40,49,Strokes per minute,100
+2,GREEN,Mesh Machines,MEP5,2,2,multiples of 2,2,flexible,3.0,19.0,3.0,20.0,50,115,60,360,39,49,Strokes per minute,100
+3,GREEN,Mesh Machines,MEP2,2,2.5,flexible,2.5,flexible,10.0,31.0,10.0,31.0,50,144,96,384,50,25,Strokes per minute,100
+4,GREEN,Mesh Machines,MEP3,2,2,flexible,2,flexible,3.0,20.0,4.0,20.0,44,120,84,540,60,25,Strokes per minute,100
+5,GREEN,Mesh Machines,MEP4,2,12,None,6,None,14.0,20.0,14.0,20.0,25,50,96,360,,6,Strokes per minute,100
+6,GREEN,Mesh Machines,SCHL,2,2,flexible,2,flexible,3.0,15.0,3.0,15.0,44,115,116,384,60,33,Strokes per minute,100
+7,ORANGE,Mesh Machines,QC7,2,2,flexible,2,flexible,3.5,31.0,3.5,31.0,24,144,57,480,,49,Strokes per minute,100
+8,ORANGE,Mesh Machines,MEP6,2,2,flexible,2,flexible,8.0,31.0,4.0,31.0,50,112,96,396,40,20,Strokes per minute,100
+9,ORANGE,Mesh Machines,MEP7,1,4,"4,6 & 8",4,"4,6 & 8",2.9,10.0,2.9,10.0,96,96,180,240,,25,Strokes per minute,100
+10,ORANGE,Mesh Machines,MEP8,2,2,multiples of 2,2,flexible,3.5,11,3.5,11.0,48,96,84,540,,49,Strokes per minute,100
+11,BROWN,Mesh Machines,MEPTWIN2,3,4,multiples of 2,4,multiples of 2,1.4,8,1.4,4.0,78,98,120,240,,25,Strokes per minute,260
+12,BROWN,Mesh Machines,MEPTWIN3,4,6,6,4,6,1.4,4,1.4,4.0,60,120,1800,2400,,22,Strokes per minute,260
+13,BROWN,Mesh Machines,JAGER2,2,2,multiple 2 (max 8),2,multiple 2 (max 8),2.1,12,2.1,12.0,96,96,1800,7200,,28,Strokes per minute,140
+14,WHITE,Mesh Machines,M1,3,6,6,6,6,1.4,2.9,1.4,4.0,30,96,144,240,,17,Strokes per minute,75
+15,WHITE,Mesh Machines,TJK,2,4,"4,6 & 8",2,flexible,1.1,4.4,1.1,4.4,36,102,36,1771,,17,Strokes per minute,80
+16,WHITE,Mesh Machines,M3,,,,,,,,,,,,,,,,,
+17,BLUE,Mesh Machines,M2,3,6,6,6,6,1.4,2.9,1.4,4.0,42,60,48,240,,17,Strokes per minute,75
+18,BLUE,Mesh Machines,MEPTWIN1,4,6,6,4,6,1.4,4,1.4,4.0,60,120,150,200,,22,Strokes per minute,260
+18,GREEN,Drawing Machines,T11,1,-,-,-,-,-,-,4.0,31.0,44,400,-,-,,-,Meter per second,-
+19,GREEN,Drawing Machines,T12,1,-,-,-,-,-,-,4.0,15.5,44,400,-,-,,-,Meter per second,-
+20,GREEN,Drawing Machines,T13,1,-,-,-,-,-,-,3.0,7.5,44,240,-,-,,-,Meter per second,-
+21,GREEN,Drawing Machines,T14,1,-,-,-,-,-,-,13.4,31.0,44,240,-,-,,-,Meter per second,-
+22,GREEN,Drawing Machines,T15/T16 EVG,1,-,-,-,-,-,-,2.5,14.0,44,260,-,-,,-,Meter per second,-
+23,GREEN,Drawing Machines,T17,1,-,-,-,-,-,-,4.0,15.5,44,500,-,-,,-,Meter per second,-
+24,ORANGE,Drawing Machines,T26,1,-,-,-,-,-,-,3.0,31.0,44,400,-,-,,-,Meter per second,-
+25,ORANGE,Drawing Machines,T27,1,-,-,-,-,-,-,3.0,31.0,44,400,-,-,,-,Meter per second,-
+26,ORANGE,Drawing Machines,T28,0.5,-,-,-,-,-,-,3.0,9.5,-,1564800,-,-,,-,Meter per second,-
+27,ORANGE,Drawing Machines,T29,0.5,-,-,-,-,-,-,3.0,9.5,-,1564800,-,-,,-,Meter per second,-
+28,ORANGE,Drawing Machines,T30,1,-,-,-,-,-,-,3.0,9.5,-,1564800,-,-,,-,Meter per second,-
+29,ORANGE,Drawing Machines,SCHNELL,1,-,-,-,-,-,-,4.0,7.5,-,240,-,-,,-,Meter per second,-
+30,ORANGE,Drawing Machines,METRONICS,1,-,-,-,-,-,-,3.0,7.5,-,240,-,-,,-,Meter per second,-
+31,BROWN,Drawing Machines,T18,0.5,-,-,-,-,-,-,1.4,4.0,-,1564800,-,-,,-,Meter per second,-
+32,BROWN,Drawing Machines,T19,0.5,-,-,-,-,-,-,1.4,4.0,-,1564800,-,-,,-,Meter per second,-
+33,BROWN,Drawing Machines,T20,0.5,-,-,-,-,-,-,1.4,4.0,-,1564800,-,-,,-,Meter per second,-
+34,BROWN,Drawing Machines,T21,0.5,-,-,-,-,-,-,1.4,4.0,-,1564800,-,-,,-,Meter per second,-
+35,BROWN,Drawing Machines,T22,0.5,-,-,-,-,-,-,1.4,4.0,-,1564800,-,-,,-,Meter per second,-
+36,BROWN,Drawing Machines,T23,0.5,-,-,-,-,-,-,1.4,4.0,-,1564800,-,-,,-,Meter per second,-
+37,WHITE,Drawing Machines,T2,0.5,-,-,-,-,-,-,2.9,2.9,-,1564800,-,-,,-,Meter per second,-
+38,WHITE,Drawing Machines,T3,0.5,-,-,-,-,-,-,1.4,2.1,-,1564800,-,-,,-,Meter per second,-
+39,WHITE,Drawing Machines,T4,0.5,-,-,-,-,-,-,1.4,1.4,-,1564800,-,-,,-,Meter per second,-
+40,BLUE,Drawing Machines,T5,0.5,-,-,-,-,-,-,1.4,2.1,-,1564800,-,-,,-,Meter per second,-
+41,BLUE,Drawing Machines,T6,0.5,-,-,-,-,-,-,1.4,2.1,-,1564800,-,-,,-,Meter per second,-
+42,BLUE,Drawing Machines,T7,0.5,-,-,-,-,-,-,4.0,4.0,-,1564800,-,-,,-,Meter per second,-
+43,BLUE,Drawing Machines,T8,0.5,-,-,-,-,-,-,2.9,2.9,-,1564800,-,-,,-,Meter per second,-
+44,BLUE,Drawing Machines,T9,0.5,-,-,-,-,-,-,2.9,2.9,-,1564800,-,-,,-,Meter per second,-
+45,BLACK,Drawing Machines,R1,1,-,-,-,-,-,-,1.4,2.9,-,1564800,-,-,,-,Meter per second,-
+46,GRAY,Bending Machine,BENDER1,4,,,,,,,,,,,,,,,Bend per hour,
+47,GRAY,Bending Machine,BENDER2,4,,,,,,,,,,,,,,,Bend per hour,
+48,GRAY,Bending Machine,BENDER3,4,,,,,,,,,,,,,,,Bend per hour,
+49,GRAY,Bending Machine,BENDER4,4,,,,,,,,,,,,,,,Bend per hour,
+50,GRAY,Cutting Machine,CUTTER1,2,,,,,,,,,,,,,,,Cut per hour,
+51,GRAY,Cutting Machine,CUTTER2,2,,,,,,,,,,,,,,,Cut per hour,
+52,GRAY,Plasma Machine,PLASMA,1,,,,,,,,,,,,,,,Cut per hour,
+53,GRAY,Wire Forming Machine,SCHNELL2,1,,,,,,,,,,,,,,,Cut per hour,
+54,GRAY,Crimping Machine,CRIMPER1,4,,,,,,,,,,,,,,,Crimp per hour,
+55,GRAY,Crimping Machine,CRIMPER2,4,,,,,,,,,,,,,,,Crimp per hour,
